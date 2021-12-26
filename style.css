@@ -33,6 +33,13 @@
 }
 .icon-cloud_upload:before {
   content: "\e902";
+  section.e2e-one p {
+    width: 100% !important;
+}
+
+section.e2e-one h1 {
+    font-size: 28px !important;
+}
 }
 .icon-backup:before {
   content: "\e902";
